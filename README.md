@@ -8,7 +8,7 @@ This project is an Arduino-based parking assistant system that uses an ultrasoni
 ## 📷 Project Preview
 
 ### 🔧 Circuit Diagram
-![Circuit](images/circuit.png)
+![Circuit](images/circuit.jpg)
 
 ### 💡 Real Setup
 ![Setup](images/setup.jpg)
